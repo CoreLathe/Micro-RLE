@@ -56,14 +56,30 @@ All constants tuned for 115200 bps serial @ 24 MHz.
 - Receiver should ignore consecutive `STUFF_BYTE` markers
 - Drift detection uses 1-cycle AND mask instead of 2-cycle MUL on M0+
 
-Permission to use, copy, modify, and/or distribute this software is hereby granted
-free of charge, provided that the above copyright notice and this permission notice
-appear in all copies.
+## License
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT,
-OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
-DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
-ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-SOFTWARE.
+MIT License - See LICENSE file
+
+**No warranty. Test thoroughly before production use.**
+
+---
+
+## Contributing
+
+Issues and PRs welcome for:
+- Bug fixes
+- Documentation improvements
+- Additional test cases
+- Platform-specific examples
+
+**Not accepting:**
+- Feature requests for arbitrary JSON (use cJSON/JSMN)
+- Breaking API changes
+
+---
+
+## Support
+
+- GitHub Issues: Bug reports and questions
+- Email: sales@corelathe.com
+- Website: http://www.corelathe.com
