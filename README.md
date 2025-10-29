@@ -72,10 +72,6 @@ Issues and PRs welcome for:
 - Additional test cases
 - Platform-specific examples
 
-**Not accepting:**
-- Feature requests for arbitrary JSON (use cJSON/JSMN)
-- Breaking API changes
-
 ---
 
 ## Support
