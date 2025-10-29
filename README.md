@@ -1,5 +1,5 @@
-# micro_rle
-[https://www.corelathe.com](https://www.corelathe.com)
+# Micro RLE
+[https://www.CoreLathe.com](https://www.corelathe.com)
 
 **≤264-byte stream compressor with drift-aware RLE-XOR—halves MCU UART bandwidth.**
 
